@@ -50,7 +50,7 @@ programming-logic-activities-in-C/
 │       (each folder also has an output/ subfolder with the compiled .exe)
 │
 ├── Atividade Final C/
-│   ├── Módulo 1/                    → Atividade 1.1 (.por), Atividade 1.2 (.bpm)
+│   ├── Módulo 1/                    → 
 │   ├── Módulo 2/                    → Atividade 2.1 (imc.c), Atividade 2.2 (tabelaverdade.cpp)
 │   ├── Módulo 3/                    → Atividade 3.1 (ficha.c), Atividade 3.2 (temperaturas.c)
 │   ├── Módulo 4/                    → Atividade 4.1 (triangulo.c), Atividade 4.2 (calculadora.c)
@@ -96,13 +96,7 @@ The first contact with C. Five small programs that introduce output, input, arit
 The final project of the course, divided into **six modules**, each with **two activities**. Every module focuses on one core topic, and the difficulty increases from module to module.
 
 #### Module 1: Algorithm Design
-
-📂 [`Módulo 1/`](Atividade%20Final%20C/M%C3%B3dulo%201/)
-
-| Activity | File | Type | What it is |
-|---|---|---|---|
-| 1.1 | `menuparacafeteria.por` | Portugol Studio program | An interactive **coffee shop ordering menu** written in Portugol (structured pseudocode in Portuguese). The user picks the coffee type (Traditional, Superior or Gourmet; Traditional splits into Strong and Extra Strong), then chooses whether to add milk and sugar, with **input validation**. At the end, the program prints an **order summary**. |
-| 1.2 | `fluxograma.bpm` | Bizagi Modeler flowchart | A **flowchart** named "Resolução de Exercício" (Exercise Solution). It reads a number and decides whether it is **positive, negative or zero**, following the path: *Start → Read number → Is it greater than zero? → Is it less than zero? → End*. |
+    deleted
 
 #### Module 2: Variables, Operators and Expressions
 
@@ -274,8 +268,6 @@ Each activity includes a ready-to-run **Windows `.exe`**. Double-click it, or ru
 | `.c` | C source code |
 | `.cpp` | Source files that use only C-style code (standard I/O), saved with a C++ extension by the IDE |
 | `.exe` | Compiled Windows executables of the programs above |
-| `.por` | **Portugol Studio** program: structured pseudocode in Portuguese, used to learn algorithm logic before C |
-| `.bpm` | **Bizagi Modeler** diagram: used here to draw a flowchart |
 
 ---
 
